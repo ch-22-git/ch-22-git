@@ -1,35 +1,35 @@
 <div align="center">
 
-# Hi 👋, I'm Chahd HAMMADI
+# Hi 👋 , I'm Chahd HAMMADI
 
 ### Electronics & Communication Systems Engineering Student
 **Embedded Systems • Internet of Things (IoT) • Software QA Automation • Applied AI**
 
 <p align="center">
-  <a href="mailto:hammadichahd21@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D93025?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/chahd-hammadi"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/ch-22-git"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:hammadichahd21@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D93025?style=for-the-badge" height="28" alt="Email" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/chahd-hammadi"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge" height="28" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/ch-22-git"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub" /></a>
 </p>
-
----
 
 </div>
 
+---
+
 ## About Me
 
-I'm an **Electronics and Communication Systems Engineering Student** (*Systèmes Connectés*) with a strong passion for hardware-software integration, embedded platforms, test automation, and applied artificial intelligence.
+I'm an **Electronics & Communication Systems Engineering Student** (*Systèmes Connectés*) with a strong focus on hardware-software integration, embedded platforms, test automation, and intelligent connected systems.
 
 My main focus is **Embedded Systems, Software Quality Assurance, and Connected IoT Solutions**, with experience across:
 
-* **Microcontroller programming & hardware interfacing:** STM32, ESP32, Arduino, and ATmega32
-* **Sensor integration & serial protocols:** UART, SPI, I2C, LoRa wireless telemetry, and MQTT
-* **Test automation for Web & REST APIs:** Python, Playwright, Pytest, and Postman
-* **QA Architecture & CI/CD:** Page Object Model (POM), test fixtures, and automated GitHub Actions pipelines
-* **Applied Machine Learning & Data:** Predictive classification models, dynamic control simulation, and data analysis
-* **Industrial automation & modeling:** Finite state machine (FSM) control logic and simulation with LabVIEW
-* **Software & dashboard development:** Python, React, Java, and RESTful API integration
+* Microcontroller programming and hardware interfacing (STM32, ESP32, Arduino, ATmega32)
+* Sensor integration and communication protocols (UART, SPI, I2C, LoRa telemetry, MQTT)
+* Automated UI and REST API testing with Python, Playwright, Pytest, and Postman
+* Page Object Model (POM) architecture, test fixtures, and CI/CD test execution with GitHub Actions
+* Machine learning classification models, dynamic control simulation, and sensor data analysis
+* Industrial control simulation and finite state machine (FSM) modeling with LabVIEW
+* Software and dashboard development with React, Python, and RESTful APIs
 
-I enjoy developing practical, maintainable engineering solutions that bridge electronic circuits, embedded firmware, automated testing, and intelligent data processing.
+I enjoy building practical, maintainable engineering solutions that bridge electronic circuits, embedded firmware, automated testing, and intelligent data systems.
 
 ---
 
@@ -37,25 +37,27 @@ I enjoy developing practical, maintainable engineering solutions that bridge ele
 
 <div align="center">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,react,arduino,raspberrypi,matlab,git,github,vscode,linux" alt="Core Technologies" />
-</a>
-
-<br /><br />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" height="42" alt="C" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" height="42" alt="Java" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" alt="React" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="42" height="42" alt="Arduino" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="42" height="42" alt="Raspberry Pi" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/LoRa-FF6600?style=flat-square" alt="LoRa" />
-  <img src="https://img.shields.io/badge/REST_API-0284C7?style=flat-square" alt="REST API" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/LabVIEW-FED100?style=flat-square&logo=nationalinstruments&logoColor=black" alt="LabVIEW" />
-  <img src="https://img.shields.io/badge/Simulink-E16726?style=flat-square&logo=mathworks&logoColor=white" alt="Simulink" />
-  <img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white" alt="Altium Designer" />
+  <img src="https://img.shields.io/badge/REST_API-0284C7?style=flat&logoColor=white" height="20" alt="REST API" /> &nbsp;
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="20" alt="Postman" /> &nbsp;
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" height="20" alt="Playwright" /> &nbsp;
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" height="20" alt="Pytest" /> &nbsp;
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white" height="20" alt="STM32" /> &nbsp;
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" height="20" alt="ESP32" /> &nbsp;
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" height="20" alt="GitHub Actions" /> &nbsp;
+  <img src="https://img.shields.io/badge/Firebase-FFA611?style=flat&logo=firebase&logoColor=white" height="20" alt="Firebase" /> &nbsp;
+  <img src="https://img.shields.io/badge/LabVIEW-EAA000?style=flat&logo=nationalinstruments&logoColor=white" height="20" alt="LabVIEW" />
 </p>
 
 </div>
