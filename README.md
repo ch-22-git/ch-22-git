@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Chahd HAMMADI
+# Hi, I'm Chahd Hammadi
 
 ### Electronics & Communication Systems Engineering Student
 **Embedded Systems • Internet of Things (IoT) • Software QA Automation • Applied AI**
