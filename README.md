@@ -1,123 +1,64 @@
-# Chahd Hammadi
+<div align="center">
 
-**Electronics and Communication Systems Engineering Student**  
-Specializing in Connected Systems, Embedded Hardware, Software Automation & Applied AI
+# Hi 👋, I'm Chahd HAMMADI
 
-<p>
-  <a href="https://github.com/ch-22-git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16" height="16" alt="GitHub" valign="middle" /> GitHub</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/chahd-hammadi"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" height="16" alt="LinkedIn" valign="middle" /> LinkedIn</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="mailto:hammadichahd21@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="16" height="16" alt="Email" valign="middle" /> hammadichahd21@gmail.com</a>
+### Electronics & Communication Systems Engineering Student
+**Embedded Systems • Internet of Things (IoT) • Software QA Automation • Applied AI**
+
+<p align="center">
+  <a href="mailto:hammadichahd21@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D93025?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/chahd-hammadi"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/ch-22-git"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
 
-## Profile Overview
+</div>
 
-I am an engineering student in Electronics and Communication Systems (*Systèmes Connectés*), with a strong focus on connected technologies and the seamless integration between electronic hardware and software applications. My academic journey and project work are driven by an interest in designing end-to-end intelligent systems that connect the physical world to software layers, cloud services, and automated data processing.
+## About Me
 
-My technical profile spans multiple engineering layers. At the hardware and firmware level, I work with electronic circuit concepts, sensor interfacing, and microcontroller architectures including STM32, ESP32, and Arduino, utilizing hardware communication protocols such as UART, SPI, I2C, and long-range wireless telemetry with LoRa. On the software and quality assurance side, I design structured automated testing suites utilizing Python, Playwright, Pytest, and Postman, applying the Page Object Model (POM) pattern, authenticated REST API validation, and GitHub Actions CI/CD pipelines to build reliable, maintainable software.
+I'm an **Electronics and Communication Systems Engineering Student** (*Systèmes Connectés*) with a strong passion for hardware-software integration, embedded platforms, test automation, and applied artificial intelligence.
 
-In parallel, I explore the practical application of machine learning, computer vision, and dynamic system modeling, from predictive data classification to reinforcement learning simulations. My professional objective is to contribute to innovative projects combining embedded platforms, robust communication networks, software automation, and intelligent data analysis. I am actively seeking international internship and Final Year Project (PFE) opportunities in embedded systems, IoT engineering, test automation, and software development.
+My main focus is **Embedded Systems, Software Quality Assurance, and Connected IoT Solutions**, with experience across:
+
+* **Microcontroller programming & hardware interfacing:** STM32, ESP32, Arduino, and ATmega32
+* **Sensor integration & serial protocols:** UART, SPI, I2C, LoRa wireless telemetry, and MQTT
+* **Test automation for Web & REST APIs:** Python, Playwright, Pytest, and Postman
+* **QA Architecture & CI/CD:** Page Object Model (POM), test fixtures, and automated GitHub Actions pipelines
+* **Applied Machine Learning & Data:** Predictive classification models, dynamic control simulation, and data analysis
+* **Industrial automation & modeling:** Finite state machine (FSM) control logic and simulation with LabVIEW
+* **Software & dashboard development:** Python, React, Java, and RESTful API integration
+
+I enjoy developing practical, maintainable engineering solutions that bridge electronic circuits, embedded firmware, automated testing, and intelligent data processing.
 
 ---
 
-## Technical Skills
+## 🛠️ Tech Stack
 
-### Programming Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="16" height="16" alt="C" valign="middle" /> C &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="16" height="16" alt="C++" valign="middle" /> C++ &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16" alt="Python" valign="middle" /> Python &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16" height="16" alt="Java" valign="middle" /> Java &nbsp;&nbsp;•&nbsp;&nbsp;
-  SQL
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,react,arduino,raspberrypi,matlab,git,github,vscode,linux" alt="Core Technologies" />
+</a>
+
+<br /><br />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/LoRa-FF6600?style=flat-square" alt="LoRa" />
+  <img src="https://img.shields.io/badge/REST_API-0284C7?style=flat-square" alt="REST API" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/LabVIEW-FED100?style=flat-square&logo=nationalinstruments&logoColor=black" alt="LabVIEW" />
+  <img src="https://img.shields.io/badge/Simulink-E16726?style=flat-square&logo=mathworks&logoColor=white" alt="Simulink" />
+  <img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white" alt="Altium Designer" />
 </p>
 
-### Embedded Systems & Electronics
-<p>
-  <img src="https://cdn.simpleicons.org/stmicroelectronics/03234B" width="16" height="16" alt="STM32" valign="middle" /> STM32 &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/espressif/E7352C" width="16" height="16" alt="ESP32" valign="middle" /> ESP32 &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="16" height="16" alt="Arduino" valign="middle" /> Arduino &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="16" height="16" alt="Raspberry Pi" valign="middle" /> Raspberry Pi &nbsp;&nbsp;•&nbsp;&nbsp;
-  ATmega32 &nbsp;&nbsp;•&nbsp;&nbsp;
-  Microcontroller Programming &nbsp;&nbsp;•&nbsp;&nbsp;
-  Sensor Integration &nbsp;&nbsp;•&nbsp;&nbsp;
-  Embedded Systems Development &nbsp;&nbsp;•&nbsp;&nbsp;
-  UART &nbsp;&nbsp;•&nbsp;&nbsp;
-  SPI &nbsp;&nbsp;•&nbsp;&nbsp;
-  I2C &nbsp;&nbsp;•&nbsp;&nbsp;
-  LoRa &nbsp;&nbsp;•&nbsp;&nbsp;
-  MQTT &nbsp;&nbsp;•&nbsp;&nbsp;
-  PCB Design &nbsp;&nbsp;•&nbsp;&nbsp;
-  Altium Designer
-</p>
-
-### Test Automation & Quality Assurance
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="16" height="16" alt="Playwright" valign="middle" /> Playwright &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="16" height="16" alt="Pytest" valign="middle" /> Pytest &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="16" height="16" alt="Postman" valign="middle" /> Postman &nbsp;&nbsp;•&nbsp;&nbsp;
-  API Testing &nbsp;&nbsp;•&nbsp;&nbsp;
-  UI Testing &nbsp;&nbsp;•&nbsp;&nbsp;
-  Automated Testing &nbsp;&nbsp;•&nbsp;&nbsp;
-  Page Object Model (POM) &nbsp;&nbsp;•&nbsp;&nbsp;
-  Test Fixtures &nbsp;&nbsp;•&nbsp;&nbsp;
-  Test Parametrization &nbsp;&nbsp;•&nbsp;&nbsp;
-  Assertions &nbsp;&nbsp;•&nbsp;&nbsp;
-  Test Reporting &nbsp;&nbsp;•&nbsp;&nbsp;
-  Parallel Testing &nbsp;&nbsp;•&nbsp;&nbsp;
-  Cross-browser Testing &nbsp;&nbsp;•&nbsp;&nbsp;
-  GitHub Actions &nbsp;&nbsp;•&nbsp;&nbsp;
-  CI/CD
-</p>
-
-### Software Development & Web
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16" height="16" alt="React" valign="middle" /> React &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16" height="16" alt="Java" valign="middle" /> Java &nbsp;&nbsp;•&nbsp;&nbsp;
-  Python Development &nbsp;&nbsp;•&nbsp;&nbsp;
-  REST APIs &nbsp;&nbsp;•&nbsp;&nbsp;
-  Web Application Development &nbsp;&nbsp;•&nbsp;&nbsp;
-  Dashboard Development
-</p>
-
-### Artificial Intelligence & Data
-<p>
-  Machine Learning &nbsp;&nbsp;•&nbsp;&nbsp;
-  Deep Learning &nbsp;&nbsp;•&nbsp;&nbsp;
-  Convolutional Neural Networks (CNN) &nbsp;&nbsp;•&nbsp;&nbsp;
-  Computer Vision &nbsp;&nbsp;•&nbsp;&nbsp;
-  Data Analysis &nbsp;&nbsp;•&nbsp;&nbsp;
-  Predictive Monitoring &nbsp;&nbsp;•&nbsp;&nbsp;
-  Prediction Models &nbsp;&nbsp;•&nbsp;&nbsp;
-  AI-based Applications
-</p>
-
-### Engineering Simulation & Industrial Automation
-<p>
-  <img src="https://cdn.simpleicons.org/nationalinstruments/FED100" width="16" height="16" alt="LabVIEW" valign="middle" /> LabVIEW &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="16" height="16" alt="MATLAB" valign="middle" /> MATLAB &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mathworks/E16726" width="16" height="16" alt="Simulink" valign="middle" /> Simulink &nbsp;&nbsp;•&nbsp;&nbsp;
-  System Modeling
-</p>
-
-### Databases & Cloud
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="16" height="16" alt="Firebase" valign="middle" /> Firebase &nbsp;&nbsp;•&nbsp;&nbsp;
-  SQL &nbsp;&nbsp;•&nbsp;&nbsp;
-  Cloud Integration &nbsp;&nbsp;•&nbsp;&nbsp;
-  Real-time Data &nbsp;&nbsp;•&nbsp;&nbsp;
-  API Integration
-</p>
-
-### Development Tools & Environments
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16" height="16" alt="Git" valign="middle" /> Git &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16" height="16" alt="GitHub" valign="middle" /> GitHub &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="16" height="16" alt="VS Code" valign="middle" /> VS Code &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="16" height="16" alt="Linux" valign="middle" /> Linux &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/stmicroelectronics/03234B" width="16" height="16" alt="STM32CubeMX" valign="middle" /> STM32CubeMX &nbsp;&nbsp;•&nbsp;&nbsp;
-  Altium Designer
-</p>
+</div>
 
 ---
 
@@ -146,6 +87,8 @@ In parallel, I explore the practical application of machine learning, computer v
 
 ## Contact & Professional Links
 
-* **GitHub:** <a href="https://github.com/ch-22-git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16" height="16" alt="GitHub" valign="middle" /> @ch-22-git</a>
-* **LinkedIn:** <a href="https://linkedin.com/in/chahd-hammadi"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" height="16" alt="LinkedIn" valign="middle" /> Chahd Hammadi</a>
-* **Email:** <a href="mailto:hammadichahd21@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="16" height="16" alt="Email" valign="middle" /> hammadichahd21@gmail.com</a>
+<p align="center">
+  <a href="https://github.com/ch-22-git"><img src="https://img.shields.io/badge/GitHub-ch--22--git-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" /></a> &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/chahd-hammadi"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a> &nbsp;&nbsp;
+  <a href="mailto:hammadichahd21@gmail.com"><img src="https://img.shields.io/badge/Email-hammadichahd21%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Send Email" /></a>
+</p>
