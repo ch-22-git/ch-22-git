@@ -1,13 +1,13 @@
 <div align="center">
 
-# Hi 👋 , I'm Chahd HAMMADI
+# Hi, I'm Chahd HAMMADI
 
 ### Electronics & Communication Systems Engineering Student
 **Embedded Systems • Internet of Things (IoT) • Software QA Automation • Applied AI**
 
 <p align="center">
-  <a href="mailto:hammadichahd21@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D93025?style=for-the-badge" height="28" alt="Email" /></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/chahd-hammadi"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge" height="28" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="mailto:hammadichahd21@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D93025?style=for-the-badge" height="28" alt="Email" /></a>
+  <a href="https://linkedin.com/in/chahd-hammadi"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge" height="28" alt="LinkedIn" /></a>
   <a href="https://github.com/ch-22-git"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub" /></a>
 </p>
 
@@ -48,13 +48,18 @@ I enjoy building practical, maintainable engineering solutions that bridge elect
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" />
 </p>
 
+<br />
+
 <p align="center">
   <img src="https://img.shields.io/badge/REST_API-0284C7?style=flat&logoColor=white" height="20" alt="REST API" /> &nbsp;
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="20" alt="Postman" /> &nbsp;
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" height="20" alt="Playwright" /> &nbsp;
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" height="20" alt="Pytest" /> &nbsp;
   <img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white" height="20" alt="STM32" /> &nbsp;
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" height="20" alt="ESP32" /> &nbsp;
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" height="20" alt="ESP32" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" height="20" alt="GitHub Actions" /> &nbsp;
   <img src="https://img.shields.io/badge/Firebase-FFA611?style=flat&logo=firebase&logoColor=white" height="20" alt="Firebase" /> &nbsp;
   <img src="https://img.shields.io/badge/LabVIEW-EAA000?style=flat&logo=nationalinstruments&logoColor=white" height="20" alt="LabVIEW" />
@@ -68,11 +73,11 @@ I enjoy building practical, maintainable engineering solutions that bridge elect
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
-| [**AquaSense: IoT Water Quality Monitoring System**](https://github.com/ch-22-git/AquaSense-IoT-Water-Quality-Monitoring) | Intelligent water quality monitoring system designed to collect, process, and analyze water quality data. Integrates multi-sensor acquisition, LoRa communication between two CM32 microcontroller nodes, Firebase cloud synchronization, an interactive real-time dashboard, and an AI classification model to predict whether water is safe or unsafe. | ESP32, CM32, LoRa, Firebase, Python, Machine Learning, Web Dashboard, Sensors |
-| [**OrangeHRM Test Automation**](https://github.com/ch-22-git/OrangeHRM-Test-Automation) | Automated testing framework developed during an engineering internship at TELNET to validate the OrangeHRM web application. Implements a Page Object Model (POM) architecture covering authenticated UI and REST API test suites, session cookie and CSRF token handling, test fixtures, synthetic data generation with Faker, and parallel execution with GitHub Actions CI/CD.<br>*(Verified result: 29 successful API tests executed in ~57 seconds)* | Python, Playwright, Pytest, Postman, APIRequestContext, GitHub Actions, Faker, pytest-xdist |
-| [**Inverted Pendulum: Reinforcement Learning Simulation**](https://github.com/ch-22-git/Inverted-Pendulum-RL) | Dynamic simulation studying stabilization and control of an inverted pendulum using reinforcement learning. Implemented in Python with Gymnasium and Stable-Baselines3 using the Proximal Policy Optimization (PPO) algorithm, focusing on mathematical system modeling, reward shaping, and policy training analysis. | Python, Gymnasium, Stable-Baselines3, PPO, PyTorch, NumPy |
-| [**RFID Embedded System**](https://github.com/ch-22-git/STM32-RFID-Embedded-System) | Contactless RFID embedded identification system based on an STM32 development board. Configured with STM32CubeMX to handle peripheral driver initialization, serial bus communication (SPI/UART), hardware interrupts, and tag UID detection and validation logic. | STM32, STM32CubeMX, C, RFID, SPI, UART, Embedded Systems |
-| [**Elevator Automation Using LabVIEW**](https://github.com/ch-22-git/LabVIEW-Elevator-Automation) | Three-floor elevator control simulation engineered in LabVIEW. Models passenger request handling, floor transitions, safety door interlocking, and cabin movement logic across Ground Floor, Floor 1, and Floor 2 using a Finite State Machine (FSM) architecture. | LabVIEW, State Machine, State Transitions, Simulation |
+| [**AquaSense: IoT Water Quality Monitoring System**](https://github.com/ch-22-git/AquaSense-IoT-Water-Quality-Monitoring) | IoT monitoring system collecting water telemetry via sensors, transmitting data over LoRa across microcontroller nodes, syncing to Firebase, and utilizing an AI classifier to predict water safety. | ESP32, CM32, LoRa, Firebase, Python, Machine Learning, Web Dashboard, Sensors |
+| [**OrangeHRM Test Automation**](https://github.com/ch-22-git/OrangeHRM-Test-Automation) | Automated testing framework developed at TELNET for UI and REST API validation using Page Object Model (POM), session/CSRF token handling, and parallel GitHub Actions CI/CD.<br>*(Verified: 29 API tests in ~57s)* | Python, Playwright, Pytest, Postman, APIRequestContext, GitHub Actions, Faker, pytest-xdist |
+| [**Inverted Pendulum: Reinforcement Learning Simulation**](https://github.com/ch-22-git/Inverted-Pendulum-RL) | Reinforcement learning simulation studying inverted pendulum stabilization using Proximal Policy Optimization (PPO) in Gymnasium and Stable-Baselines3. | Python, Gymnasium, Stable-Baselines3, PPO, PyTorch, NumPy |
+| [**RFID Embedded System**](https://github.com/ch-22-git/STM32-RFID-Embedded-System) | Contactless RFID identification system on STM32 configured with STM32CubeMX, implementing SPI/UART drivers, interrupt handling, and tag authentication logic. | STM32, STM32CubeMX, C, RFID, SPI, UART, Embedded Systems |
+| [**Elevator Automation Using LabVIEW**](https://github.com/ch-22-git/LabVIEW-Elevator-Automation) | Three-floor elevator simulation in LabVIEW modeling floor transitions, request queuing, and door safety interlocks using a Finite State Machine (FSM). | LabVIEW, State Machine, State Transitions, Simulation |
 
 ---
 
@@ -89,8 +94,8 @@ I enjoy building practical, maintainable engineering solutions that bridge elect
 
 ## Contact & Professional Links
 
-<p align="center">
-  <a href="https://github.com/ch-22-git"><img src="https://img.shields.io/badge/GitHub-ch--22--git-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" /></a> &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/chahd-hammadi"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a> &nbsp;&nbsp;
-  <a href="mailto:hammadichahd21@gmail.com"><img src="https://img.shields.io/badge/Email-hammadichahd21%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Send Email" /></a>
-</p>
+I am open to discussions regarding internship opportunities, Final Year Projects (PFE), and technical collaborations:
+
+* **GitHub:** [@ch-22-git](https://github.com/ch-22-git)
+* **LinkedIn:** [Chahd Hammadi](https://linkedin.com/in/chahd-hammadi)
+* **Email:** [hammadichahd21@gmail.com](mailto:hammadichahd21@gmail.com)
