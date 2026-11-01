@@ -5,11 +5,19 @@
 ### Electronics & Communication Systems Engineering Student
 **Embedded Systems • Internet of Things (IoT) • Software QA Automation • Applied AI**
 
-<p align="center">
-  <nobr>
-    <a href="mailto:hammadichahd21@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" valign="middle" /></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/chahd-hammadi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" valign="middle" /></a>&nbsp;&nbsp;<a href="https://github.com/ch-22-git"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub" valign="middle" /></a>
-  </nobr>
-</p>
+<table align="center" border="0">
+  <tr>
+    <td align="center" valign="middle">
+      <a href="mailto:hammadichahd21@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" valign="middle" /></a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://linkedin.com/in/chahd-hammadi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" valign="middle" /></a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://github.com/ch-22-git" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub" valign="middle" /></a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
