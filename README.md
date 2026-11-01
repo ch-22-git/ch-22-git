@@ -6,7 +6,9 @@
 **Embedded Systems • Internet of Things (IoT) • Software QA Automation • Applied AI**
 
 <p align="center">
-  <a href="mailto:hammadichahd21@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" /></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/chahd-hammadi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://github.com/ch-22-git"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub" /></a>
+  <a href="mailto:hammadichahd21@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" valign="middle" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/chahd-hammadi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" valign="middle" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/ch-22-git"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub" valign="middle" /></a>
 </p>
 
 </div>
