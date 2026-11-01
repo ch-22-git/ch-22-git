@@ -3,7 +3,11 @@
 **Electronics and Communication Systems Engineering Student**  
 Specializing in Connected Systems, Embedded Hardware, Software Automation & Applied AI
 
-[GitHub](https://github.com/ch-22-git) &nbsp;•&nbsp; [LinkedIn](https://linkedin.com/in/chahd-hammadi) &nbsp;•&nbsp; [hammadichahd21@gmail.com](mailto:hammadichahd21@gmail.com)
+<p>
+  <a href="https://github.com/ch-22-git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16" height="16" alt="GitHub" valign="middle" /> GitHub</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/chahd-hammadi"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" height="16" alt="LinkedIn" valign="middle" /> LinkedIn</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:hammadichahd21@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="16" height="16" alt="Email" valign="middle" /> hammadichahd21@gmail.com</a>
+</p>
 
 ---
 
@@ -21,19 +25,19 @@ In parallel, I explore the practical application of machine learning, computer v
 
 ### Programming Languages
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="14" height="14" alt="C" valign="middle" /> C &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="14" height="14" alt="C++" valign="middle" /> C++ &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="14" height="14" alt="Python" valign="middle" /> Python &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="14" height="14" alt="Java" valign="middle" /> Java &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="16" height="16" alt="C" valign="middle" /> C &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="16" height="16" alt="C++" valign="middle" /> C++ &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16" alt="Python" valign="middle" /> Python &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16" height="16" alt="Java" valign="middle" /> Java &nbsp;&nbsp;•&nbsp;&nbsp;
   SQL
 </p>
 
 ### Embedded Systems & Electronics
 <p>
-  <img src="https://cdn.simpleicons.org/stmicroelectronics/03234B" width="14" height="14" alt="STM32" valign="middle" /> STM32 &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/espressif/E7352C" width="14" height="14" alt="ESP32" valign="middle" /> ESP32 &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="14" height="14" alt="Arduino" valign="middle" /> Arduino &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="14" height="14" alt="Raspberry Pi" valign="middle" /> Raspberry Pi &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/stmicroelectronics/03234B" width="16" height="16" alt="STM32" valign="middle" /> STM32 &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/espressif/E7352C" width="16" height="16" alt="ESP32" valign="middle" /> ESP32 &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="16" height="16" alt="Arduino" valign="middle" /> Arduino &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="16" height="16" alt="Raspberry Pi" valign="middle" /> Raspberry Pi &nbsp;&nbsp;•&nbsp;&nbsp;
   ATmega32 &nbsp;&nbsp;•&nbsp;&nbsp;
   Microcontroller Programming &nbsp;&nbsp;•&nbsp;&nbsp;
   Sensor Integration &nbsp;&nbsp;•&nbsp;&nbsp;
@@ -49,9 +53,9 @@ In parallel, I explore the practical application of machine learning, computer v
 
 ### Test Automation & Quality Assurance
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="14" height="14" alt="Playwright" valign="middle" /> Playwright &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="14" height="14" alt="Pytest" valign="middle" /> Pytest &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="14" height="14" alt="Postman" valign="middle" /> Postman &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="16" height="16" alt="Playwright" valign="middle" /> Playwright &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="16" height="16" alt="Pytest" valign="middle" /> Pytest &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="16" height="16" alt="Postman" valign="middle" /> Postman &nbsp;&nbsp;•&nbsp;&nbsp;
   API Testing &nbsp;&nbsp;•&nbsp;&nbsp;
   UI Testing &nbsp;&nbsp;•&nbsp;&nbsp;
   Automated Testing &nbsp;&nbsp;•&nbsp;&nbsp;
@@ -68,21 +72,12 @@ In parallel, I explore the practical application of machine learning, computer v
 
 ### Software Development & Web
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16" height="16" alt="React" valign="middle" /> React &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16" height="16" alt="Java" valign="middle" /> Java &nbsp;&nbsp;•&nbsp;&nbsp;
   Python Development &nbsp;&nbsp;•&nbsp;&nbsp;
-  React &nbsp;&nbsp;•&nbsp;&nbsp;
-  Java &nbsp;&nbsp;•&nbsp;&nbsp;
-  Flask &nbsp;&nbsp;•&nbsp;&nbsp;
-  FastAPI &nbsp;&nbsp;•&nbsp;&nbsp;
   REST APIs &nbsp;&nbsp;•&nbsp;&nbsp;
   Web Application Development &nbsp;&nbsp;•&nbsp;&nbsp;
   Dashboard Development
-</p>
-
-### Mobile Development
-<p>
-  React Native &nbsp;&nbsp;•&nbsp;&nbsp;
-  Expo &nbsp;&nbsp;•&nbsp;&nbsp;
-  Mobile Application Development
 </p>
 
 ### Artificial Intelligence & Data
@@ -91,8 +86,6 @@ In parallel, I explore the practical application of machine learning, computer v
   Deep Learning &nbsp;&nbsp;•&nbsp;&nbsp;
   Convolutional Neural Networks (CNN) &nbsp;&nbsp;•&nbsp;&nbsp;
   Computer Vision &nbsp;&nbsp;•&nbsp;&nbsp;
-  YOLO &nbsp;&nbsp;•&nbsp;&nbsp;
-  OpenCV &nbsp;&nbsp;•&nbsp;&nbsp;
   Data Analysis &nbsp;&nbsp;•&nbsp;&nbsp;
   Predictive Monitoring &nbsp;&nbsp;•&nbsp;&nbsp;
   Prediction Models &nbsp;&nbsp;•&nbsp;&nbsp;
@@ -101,16 +94,15 @@ In parallel, I explore the practical application of machine learning, computer v
 
 ### Engineering Simulation & Industrial Automation
 <p>
-  <img src="https://cdn.simpleicons.org/nationalinstruments/FED100" width="14" height="14" alt="LabVIEW" valign="middle" /> LabVIEW &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="14" height="14" alt="MATLAB" valign="middle" /> MATLAB &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mathworks/E16726" width="14" height="14" alt="Simulink" valign="middle" /> Simulink &nbsp;&nbsp;•&nbsp;&nbsp;
-  System Modeling &nbsp;&nbsp;•&nbsp;&nbsp;
-  Engineering Simulation
+  <img src="https://cdn.simpleicons.org/nationalinstruments/FED100" width="16" height="16" alt="LabVIEW" valign="middle" /> LabVIEW &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="16" height="16" alt="MATLAB" valign="middle" /> MATLAB &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mathworks/E16726" width="16" height="16" alt="Simulink" valign="middle" /> Simulink &nbsp;&nbsp;•&nbsp;&nbsp;
+  System Modeling
 </p>
 
 ### Databases & Cloud
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="14" height="14" alt="Firebase" valign="middle" /> Firebase &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="16" height="16" alt="Firebase" valign="middle" /> Firebase &nbsp;&nbsp;•&nbsp;&nbsp;
   SQL &nbsp;&nbsp;•&nbsp;&nbsp;
   Cloud Integration &nbsp;&nbsp;•&nbsp;&nbsp;
   Real-time Data &nbsp;&nbsp;•&nbsp;&nbsp;
@@ -119,11 +111,11 @@ In parallel, I explore the practical application of machine learning, computer v
 
 ### Development Tools & Environments
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="14" height="14" alt="Git" valign="middle" /> Git &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="14" height="14" alt="GitHub" valign="middle" /> GitHub &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="14" height="14" alt="VS Code" valign="middle" /> VS Code &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="14" height="14" alt="Linux" valign="middle" /> Linux &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/stmicroelectronics/03234B" width="14" height="14" alt="STM32CubeMX" valign="middle" /> STM32CubeMX &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16" height="16" alt="Git" valign="middle" /> Git &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16" height="16" alt="GitHub" valign="middle" /> GitHub &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="16" height="16" alt="VS Code" valign="middle" /> VS Code &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="16" height="16" alt="Linux" valign="middle" /> Linux &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/stmicroelectronics/03234B" width="16" height="16" alt="STM32CubeMX" valign="middle" /> STM32CubeMX &nbsp;&nbsp;•&nbsp;&nbsp;
   Altium Designer
 </p>
 
@@ -154,6 +146,6 @@ In parallel, I explore the practical application of machine learning, computer v
 
 ## Contact & Professional Links
 
-* **GitHub:** [@ch-22-git](https://github.com/ch-22-git)
-* **LinkedIn:** [Chahd Hammadi](https://linkedin.com/in/chahd-hammadi)
-* **Email:** [hammadichahd21@gmail.com](mailto:hammadichahd21@gmail.com)
+* **GitHub:** <a href="https://github.com/ch-22-git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16" height="16" alt="GitHub" valign="middle" /> @ch-22-git</a>
+* **LinkedIn:** <a href="https://linkedin.com/in/chahd-hammadi"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" height="16" alt="LinkedIn" valign="middle" /> Chahd Hammadi</a>
+* **Email:** <a href="mailto:hammadichahd21@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="16" height="16" alt="Email" valign="middle" /> hammadichahd21@gmail.com</a>
